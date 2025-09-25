@@ -1,0 +1,7 @@
+Hadoop adalah framework open source yang memungkinkan pemrosesan data besar secara terdistribusi.
+WordCount adalah contoh program MapReduce sederhana untuk menghitung frekuensi kata.
+MapReduce membagi tugas menjadi map dan reduce, sehingga proses data besar menjadi efisien.
+Data besar atau Big Data memerlukan penyimpanan dan pemrosesan yang terdistribusi.
+Hadoop terdiri dari HDFS untuk penyimpanan dan MapReduce untuk pemrosesan.
+Setiap kata dalam dokumen ini akan dihitung jumlah kemunculannya oleh WordCount.
+
