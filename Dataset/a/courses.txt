@@ -1,0 +1,26 @@
+Alice;Math
+Alice;English
+Bob;Physics
+Charlie;Biology
+Charlie;Chemistry
+Dina;History
+Edward;Math
+Edward;Economics
+Farah;English
+George;Sociology
+Hannah;Philosophy
+Irfan;Programming
+Irfan;Data Science
+Julia;Art
+Kevin;PE
+Linda;Music
+Michael;Programming
+Nina;History
+Oscar;Math
+Oscar;Physics
+Putri;Economics
+Quinn;Sociology
+Rizal;Statistics
+Santi;English
+Santi;Design
+Tommy;Law
